@@ -286,3 +286,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+**/.vs
+**/bin
+**/obj
+**/*.csproj.user
+**/*.csproj.user
+packages
